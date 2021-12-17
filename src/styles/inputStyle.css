@@ -1,0 +1,10 @@
+.password input {
+  background: #242424;
+  line-height: 20px;
+  letter-spacing: 0.5em;
+  color: #71fd1e;
+  font-size: 22px;
+}
+.password :hover {
+  box-shadow: 0;
+}
